@@ -1,0 +1,72 @@
+@font-face {
+font-family: "Ubuntu Bold Italic";
+src: url("Ubuntu Bold Italic.eot") format("eot"); /* IE9 Compat Modes */
+src: url("Ubuntu Bold Italic.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+     url("Ubuntu Bold Italic.woff") format("woff"), /* Modern Browsers */
+     url("Ubuntu Bold Italic.ttf") format("truetype"); /* Safari, Android, iOS */
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: "Ubuntu Bold";
+src: url("Ubuntu Bold.eot") format("eot"); /* IE9 Compat Modes */
+src: url("Ubuntu Bold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+     url("Ubuntu Bold.woff") format("woff"), /* Modern Browsers */
+     url("Ubuntu Bold.ttf") format("truetype"); /* Safari, Android, iOS */
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: "Ubuntu Italic";
+src: url("Ubuntu Italic.eot") format("eot"); /* IE9 Compat Modes */
+src: url("Ubuntu Italic.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+     url("Ubuntu Italic.woff") format("woff"), /* Modern Browsers */
+     url("Ubuntu Italic.ttf") format("truetype"); /* Safari, Android, iOS */
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: "Ubuntu Light Italic";
+src: url("Ubuntu Light Italic.eot") format("eot"); /* IE9 Compat Modes */
+src: url("Ubuntu Light Italic.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+     url("Ubuntu Light Italic.woff") format("woff"), /* Modern Browsers */
+     url("Ubuntu Light Italic.ttf") format("truetype"); /* Safari, Android, iOS */
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: "Ubuntu Light";
+src: url("Ubuntu Light.eot") format("eot"); /* IE9 Compat Modes */
+src: url("Ubuntu Light.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+     url("Ubuntu Light.woff") format("woff"), /* Modern Browsers */
+     url("Ubuntu Light.ttf") format("truetype"); /* Safari, Android, iOS */
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: "Ubuntu Medium Italic";
+src: url("Ubuntu Medium Italic.eot") format("eot"); /* IE9 Compat Modes */
+src: url("Ubuntu Medium Italic.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+     url("Ubuntu Medium Italic.woff") format("woff"), /* Modern Browsers */
+     url("Ubuntu Medium Italic.ttf") format("truetype"); /* Safari, Android, iOS */
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: "Ubuntu Medium";
+src: url("Ubuntu Medium.eot") format("eot"); /* IE9 Compat Modes */
+src: url("Ubuntu Medium.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+     url("Ubuntu Medium.woff") format("woff"), /* Modern Browsers */
+     url("Ubuntu Medium.ttf") format("truetype"); /* Safari, Android, iOS */
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: "Ubuntu Regular";
+src: url("Ubuntu Regular.eot") format("eot"); /* IE9 Compat Modes */
+src: url("Ubuntu Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+     url("Ubuntu Regular.woff") format("woff"), /* Modern Browsers */
+     url("Ubuntu Regular.ttf") format("truetype"); /* Safari, Android, iOS */
+font-weight: normal;
+font-style: normal;
+}
